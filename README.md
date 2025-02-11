@@ -1,0 +1,2 @@
+# NewbornJS
+Learning JavaScript
